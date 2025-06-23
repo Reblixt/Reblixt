@@ -11,13 +11,13 @@ I'm a Full-stack Web3 developer with a background in healthcare. My journey into
 
 | Category | Technologies |
 | :--- | :--- |
-| **Smart Contract** | Solidity (Foundry, Hardhat) <br> Move |
-| **Backend** | TypeScript (NestJS, Express, Kafka, Redis) <br> Rust (Axum - *learning*) |
-| **Frontend** | TypeScript (Next.js, Vite) <br> Rust (Dioxus - *learning*) |
+| **Smart Contract** | Solidity (Foundry, Hardhat) <br>  Move |
+| **Backend** |TypeScript (NestJS, Express, Kafka, Redis) <br> Rust (Axum - *learning*) |
+| **Frontend** |TypeScript (Next.js, Vite) <br>Rust (Dioxus - *learning*) |
 
 > "Repetition is the mother of all skills." - Patrick Collins
 
-- ⚡ Fun facts: I've channeled a past gaming habit into a passion for programming, but I still make time for LitRPG books. When I'm not at the keyboard, I'm busy with my family, our dog, and three pet rats.
+- ⚡ Fun facts: I've channeled a past gaming habit into a passion for programming, but I still make time for LitRPG books. When I'm not at the keyboard, I'm busy with my family and our dog.
 
 
 
