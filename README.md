@@ -11,10 +11,10 @@ I'm a Full-stack Web3 developer with a background in healthcare. My journey into
 
 | Category | Technologies |
 | :--- | :--- |
-| **Smart Contract** | Solidity (Foundry, Hardhat) <br>  Move |
+| **Smart Contract** |Solidity (Foundry, Hardhat) <br>  Move |
 | **Backend** |TypeScript (NestJS, Express, Kafka, Redis) <br> Rust (Axum - *learning*) |
 | **Frontend** |TypeScript (Next.js, Vite) <br>Rust (Dioxus - *learning*) |
-| **Editor** | Neovim <br> Zed |
+| **Editor** |Neovim <br> Zed |
 
 > "Repetition is the mother of all skills." - Patrick Collins
 
