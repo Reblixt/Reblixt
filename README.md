@@ -14,12 +14,13 @@ I'm a Full-stack Web3 developer with a background in healthcare. My journey into
 | **Smart Contract** | Solidity (Foundry, Hardhat) <br>  Move |
 | **Backend** |TypeScript (NestJS, Express, Kafka, Redis) <br> Rust (Axum - *learning*) |
 | **Frontend** |TypeScript (Next.js, Vite) <br>Rust (Dioxus - *learning*) |
+| **Editor** | Neovim <br> Zed |
 
 > "Repetition is the mother of all skills." - Patrick Collins
 
 - ⚡ Fun facts: I've channeled a past gaming habit into a passion for programming, but I still make time for LitRPG books. When I'm not at the keyboard, I'm busy with my family and our dog.
 
-
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 <!--
 **Reblixt/Reblixt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
